@@ -11,10 +11,7 @@ class Solution {
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1]) {
                 count++;
-                if(count<=2){
-                   
-
-                }
+                
             } else {
                 count = 1;
                 
