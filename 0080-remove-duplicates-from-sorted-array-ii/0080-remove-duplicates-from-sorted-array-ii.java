@@ -6,18 +6,18 @@ class Solution {
         ArrayList<Integer> list = new ArrayList<>();
         int count = 1;
         list.add(nums[0]);
-        int index=1;
+        
 
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1]) {
                 count++;
                 if(count<=2){
-                    index++;
+                   
 
                 }
             } else {
                 count = 1;
-                index++;
+                
             }
 
             if (count <= 2) {
