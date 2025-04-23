@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharma7147/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0056-merge-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
