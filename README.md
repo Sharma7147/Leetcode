@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Sharma7147/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0978-valid-mountain-array](https://github.com/Sharma7147/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Sharma7147/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1168-duplicate-zeros](https://github.com/Sharma7147/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1168-duplicate-zeros](https://github.com/Sharma7147/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
