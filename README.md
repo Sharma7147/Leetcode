@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sharma7147/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Sharma7147/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Sharma7147/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Sharma7147/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sharma7147/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma7147/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Sharma7147/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sharma7147/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Sharma7147/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Sharma7147/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
