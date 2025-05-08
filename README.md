@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Sharma7147/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Sharma7147/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/Sharma7147/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sharma7147/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Sharma7147/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
+| [1306-minimum-absolute-difference](https://github.com/Sharma7147/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Two Pointers
 |  |
 | ------- |
