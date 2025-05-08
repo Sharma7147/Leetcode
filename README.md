@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sharma7147/Leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Sharma7147/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sharma7147/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sharma7147/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sharma7147/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
