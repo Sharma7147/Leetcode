@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Sharma7147/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/Sharma7147/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sharma7147/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/Sharma7147/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
