@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Sharma7147/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Sharma7147/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Sharma7147/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1651-shuffle-string](https://github.com/Sharma7147/Leetcode/tree/master/1651-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [1205-defanging-an-ip-address](https://github.com/Sharma7147/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/Sharma7147/Leetcode/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
