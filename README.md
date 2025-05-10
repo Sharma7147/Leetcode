@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Sharma7147/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Sharma7147/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Sharma7147/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [1205-defanging-an-ip-address](https://github.com/Sharma7147/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Sharma7147/Leetcode/tree/master/1651-shuffle-string) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Sharma7147/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Trie
 |  |
 | ------- |
