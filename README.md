@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Sharma7147/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Sharma7147/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Sharma7147/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
 | [1651-shuffle-string](https://github.com/Sharma7147/Leetcode/tree/master/1651-shuffle-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sharma7147/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sharma7147/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [1205-defanging-an-ip-address](https://github.com/Sharma7147/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
 | [1651-shuffle-string](https://github.com/Sharma7147/Leetcode/tree/master/1651-shuffle-string) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sharma7147/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sharma7147/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharma7147/Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
 <!---LeetCode Topics End-->
