@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Sharma7147/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Sharma7147/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sharma7147/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1651-shuffle-string](https://github.com/Sharma7147/Leetcode/tree/master/1651-shuffle-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sharma7147/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sharma7147/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sharma7147/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Sharma7147/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sharma7147/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sharma7147/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sharma7147/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sharma7147/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sharma7147/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Sharma7147/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sharma7147/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
