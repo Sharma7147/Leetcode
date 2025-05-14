@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sharma7147/Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Sharma7147/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Sharma7147/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/Sharma7147/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Sharma7147/Leetcode/tree/master/1018-largest-perimeter-triangle) |
