@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sharma7147/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sharma7147/Leetcode/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/Sharma7147/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Sharma7147/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Sharma7147/Leetcode/tree/master/1013-fibonacci-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/Sharma7147/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sharma7147/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sharma7147/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -233,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sharma7147/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sharma7147/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sharma7147/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sharma7147/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Sharma7147/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
