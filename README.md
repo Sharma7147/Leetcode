@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sharma7147/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sharma7147/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sharma7147/Leetcode/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sharma7147/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sharma7147/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sharma7147/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sharma7147/Leetcode/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Sharma7147/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
 ## Stack
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Sharma7147/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sharma7147/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sharma7147/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
