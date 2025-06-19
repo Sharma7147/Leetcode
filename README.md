@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharma7147/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/Sharma7147/Leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sharma7147/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Sharma7147/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Sharma7147/Leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sharma7147/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Sharma7147/Leetcode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/Sharma7147/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Counting Sort
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sharma7147/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Sharma7147/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/1078-remove-outermost-parentheses) |
