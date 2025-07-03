@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sharma7147/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1651-shuffle-string](https://github.com/Sharma7147/Leetcode/tree/master/1651-shuffle-string) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sharma7147/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sharma7147/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Sharma7147/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sharma7147/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sharma7147/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sharma7147/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sharma7147/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Sharma7147/Leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Sharma7147/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sharma7147/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Counting Sort
 |  |
 | ------- |
