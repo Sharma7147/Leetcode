@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Sharma7147/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Sharma7147/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sharma7147/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Sharma7147/Leetcode/tree/master/0605-can-place-flowers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Sharma7147/Leetcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Sharma7147/Leetcode/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Sharma7147/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sharma7147/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sharma7147/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sharma7147/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Sharma7147/Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Sharma7147/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sharma7147/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sharma7147/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sharma7147/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sharma7147/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sharma7147/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Recursion
