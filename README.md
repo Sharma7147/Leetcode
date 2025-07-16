@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sharma7147/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sharma7147/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Sharma7147/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Sharma7147/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sharma7147/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma7147/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Sharma7147/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Sharma7147/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sharma7147/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sharma7147/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Sharma7147/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sharma7147/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Sharma7147/Leetcode/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
