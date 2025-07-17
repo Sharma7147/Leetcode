@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sharma7147/Leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Sharma7147/Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Sharma7147/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sharma7147/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sharma7147/Leetcode/tree/master/0263-ugly-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sharma7147/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Sharma7147/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sharma7147/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Sharma7147/Leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Sharma7147/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Sharma7147/Leetcode/tree/master/0242-valid-anagram) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sharma7147/Leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Sharma7147/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Sharma7147/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1449-print-words-vertically](https://github.com/Sharma7147/Leetcode/tree/master/1449-print-words-vertically) |
