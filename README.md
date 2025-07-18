@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sharma7147/Leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Sharma7147/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Sharma7147/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0056-merge-intervals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sharma7147/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Sharma7147/Leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Sharma7147/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Sharma7147/Leetcode/tree/master/0179-largest-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sharma7147/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Sharma7147/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sharma7147/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Sharma7147/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sharma7147/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
